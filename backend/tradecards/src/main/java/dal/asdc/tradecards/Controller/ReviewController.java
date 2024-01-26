@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * The ReviewController class handles seller review-related operations
+ * The ReviewController class handles the seller review-related operations
  * such as create review, get review and delete review.
  *
  * @author Harshpreet Singh
